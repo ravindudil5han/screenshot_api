@@ -1,0 +1,23 @@
+{
+  "name": "screenshot_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindudil5han/screenshot_api.git"
+  },
+  "author": "dilshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravindudil5han/screenshot_api/issues"
+  },
+  "homepage": "https://github.com/ravindudil5han/screenshot_api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.6.3"
+  }
+}
